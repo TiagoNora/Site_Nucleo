@@ -37,7 +37,6 @@
     </form>
     <?php
     include "encrypt.php";
-    //echo clean("Álvaro Torcato");
     ?>
 
 </body>
